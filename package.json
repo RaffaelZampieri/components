@@ -1,6 +1,6 @@
 {
-	"name": "@raffaelzampieri/meus-componentes",
-	"version": "1.0.1",
+	"name": "@raffaelzampieri/components",
+	"version": "1.0.0",
 	"description": "",
 	"main": "dist/index.umd.js",
 	"module": "dist/index.mjs",
